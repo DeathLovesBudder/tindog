@@ -60,9 +60,10 @@ p {
 }
 
 .nav-link {
+  color: #343A40;
   font-size: 1.2rem;
   font-family: "Montserrat";
-  font-weight: 200;
+  font-weight: 100;
 }
 
 /* Download Buttons */
